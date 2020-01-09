@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleCaptchaDemo", "GoogleCaptchaDemo\GoogleCaptchaDemo.csproj", "{678D5B0D-8B5C-4718-9DEC-7C17D2620CF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{678D5B0D-8B5C-4718-9DEC-7C17D2620CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678D5B0D-8B5C-4718-9DEC-7C17D2620CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678D5B0D-8B5C-4718-9DEC-7C17D2620CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678D5B0D-8B5C-4718-9DEC-7C17D2620CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E26DA77-773F-4D1A-920E-4D1CF926D4E0}
+	EndGlobalSection
+EndGlobal
